@@ -1,5 +1,5 @@
 import ctypes
-import sys
+
 dll = ctypes.CDLL("./power.dll")
 
 length = 5
